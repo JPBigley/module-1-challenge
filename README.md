@@ -31,7 +31,7 @@ THEN I find a concise, descriptive title
 ```
 
 Image of the Website:
-![Horiseon Website Image](./Develop/assets/images/horiseon-img.png)
+![Horiseon Website Image](./assets/images/horiseon-img.png)
 
 The changes I made to the HTML code are as follows:
 
